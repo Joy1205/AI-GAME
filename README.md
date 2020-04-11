@@ -1,1 +1,1 @@
-# AI-GAME
+A simple AI game Using Python.
